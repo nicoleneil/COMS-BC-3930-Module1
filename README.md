@@ -27,7 +27,7 @@ Hole puncher
 Process:
 1. Configure Board and Port in the Tools section of the Arduino app for compatibility with your ESP32 TTGO. 
 2. Prompt Chat GPT (https://chat.openai.com/) to generate 100 words related to S.T.E.A.M.
-3. Develop program for ESP32 TTGO on laptop (MacBook Pro) including Chat GPT generated text. 
+3. Develop program (in C++) for ESP32 TTGO on laptop (MacBook Pro) including Chat GPT generated text. 
 4. Flash program from laptop to ESP32 TTGO via Usb-C (ensure that your Usb-c cable has all the necessary pins for this to work). 
 ![IMG_9882](https://github.com/nicoleneil/COMS-BC-3930-Module1/assets/158202481/c6d48623-c219-463e-a6cb-fe191962a506)
 

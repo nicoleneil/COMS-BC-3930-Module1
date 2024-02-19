@@ -32,12 +32,12 @@ Process:
 ![IMG_9882](https://github.com/nicoleneil/COMS-BC-3930-Module1/assets/158202481/c6d48623-c219-463e-a6cb-fe191962a506)
 
 5. In pencil sketch the design on the enveloppe (S.T.E.A.M. icons). Draw the final designs on the envelope in Sharpie. Incorporate your initials into the design in pen. Use the eraser to remove and pencil marks remaining on the envelope. 
-![IMG_9885](https://github.com/nicoleneil/COMS-BC-3930-Module1/assets/158202481/64377cb3-0d11-4355-8504-80850dee9f9c)
+![IMG_9885](https://github.com/nicoleneil/COMS-BC-3930-Module1/assets/158202481/dc74b8c7-817e-479d-952a-878a98c857a3)
 
 6. Use the hole puncher to make holes in the envelope. Thread string through these holes and tie knots to secure the string. Tie the other ends of the strings to the popsicle stick and tape the knots down to secure them to the wood. 
 
 7. Solder crimp connector to wire with Soldering iron (performed by Prof Santolucito). 
-![IMG_9883](https://github.com/nicoleneil/COMS-BC-3930-Module1/assets/158202481/8eda5884-30ec-48b2-b58b-5cb37c4a7d7d)
+![IMG_9883](https://github.com/nicoleneil/COMS-BC-3930-Module1/assets/158202481/b38447d0-781f-4b92-a2d5-cd6b2ce23229)
 
 8. Place a sectin of heat shrink wrap tubing over the soldered connection between the crimp connector and wire. Be sure to have hair and sleeves tied/pulled back to avoid injury and use the heat gun to melt the heat shrink wrap tubing to cover the soldered connection and prevent the black and red wires from touching.
 ![IMG_9884](https://github.com/nicoleneil/COMS-BC-3930-Module1/assets/158202481/c6fd26e3-2e76-446f-ab80-d5a8e5b859a4)
